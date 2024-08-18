@@ -4,6 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hallo :) Ich heiße Sophie und das hier ist meine Webseite. Ich habe noch keine Ahnung, wozu sie gut sein soll.
+Hallo :) Ich heiße Sophie und ich schreibe manchmal Sachen.  
+Das hier ist meine kleine Webseite. Bisher ist sie relativ nutzlos und ich habe eigentlich gar keine Ahnung, was ich damit anfangen soll.  
 
-Lol.
+Bald erwartet euch hier bestimmt jede Menge Spiel, Spaß und Abenteuer.  
+
+Bis dahin :)  
+Eure Sophie
+
+
