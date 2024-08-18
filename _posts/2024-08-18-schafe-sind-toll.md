@@ -7,5 +7,5 @@ tags: [schafe]     # TAG names should always be lowercase
 
 ![Image](/images/schafi.jpg)
 
-Schafe sind sehr süß und toll.
+Schafe sind sehr süß und toll.  
 

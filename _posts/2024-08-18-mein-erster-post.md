@@ -5,3 +5,11 @@ categories: [Test, Allgemein]
 tags: [testen]     # TAG names should always be lowercase
 ---
 Hallo. Das ist mein allererster Versuch.
+
+## Was das hier werden soll?
+
+Ich habe ehrlich gesagt noch gar keine Ahnung. Also stay tuned für viele tolle verrückte Sachen.
+
+Liebe Grüße  
+Sophie 
+

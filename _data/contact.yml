@@ -1,11 +1,15 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+#- type: github
+#  icon: "fab fa-github"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: Bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/shinyschaf.bsky.social"
+
+#- type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
