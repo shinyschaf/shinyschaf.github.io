@@ -10,6 +10,4 @@ Hallo. Das ist mein allererster Versuch.
 
 Ich habe ehrlich gesagt noch gar keine Ahnung. Also stay tuned für viele tolle verrückte Sachen.
 
-Liebe Grüße  
-Sophie 
 
