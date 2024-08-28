@@ -5,7 +5,7 @@ categories: [Tiere, Allgemein]
 tags: [schafe]     # TAG names should always be lowercase
 ---
 
-![Image](/images/schafi.jpg)
+![Bild von einem Schaf](/images/schafi.jpg "Schaf")
 
 Schafe sind sehr süß und toll.  
 
