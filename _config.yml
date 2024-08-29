@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sophie Na
-  email: gehteuch@nixan.com # change to your email address
+  name: Sophie
+  email: shinyschaf@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/shinyschaf # change to your github homepage
